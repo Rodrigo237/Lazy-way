@@ -1,3 +1,7 @@
 I am outside somefolder
 
-I am still outside ;(
+I am still outside Unfortunately
+
+I am a fourth line
+
+No just kidding I'm the third line!
